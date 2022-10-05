@@ -1,0 +1,1 @@
+var json_geotag_nde_4 = {"type":"FeatureCollection","name":"geotag_nde_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"geotag","Pictures":"C:\\Users\\User\\Pictures\\Saved Pictures\\CPDO"},"geometry":{"type":"Point","coordinates":[125.099536598061661,8.831310673110018]}}]}
